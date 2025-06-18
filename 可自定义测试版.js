@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GeoFS卫星版地图插件测试版
+// @name         GeoFS卫星版地图插件测试版（D打开隐藏界面）
 // @version      1.1
 // @description  可根据使用者电脑需求自定义更新频率和加载范围的卫星地图
 // @author       bilibili開飛機のzm
