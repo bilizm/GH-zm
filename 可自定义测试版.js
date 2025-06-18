@@ -19,8 +19,8 @@
         imagerySource: "arcgis",
         maxZoomLevel: 19,
         terrainQuality: "high",
-        focusRadius: 10000, // 10公里半径（单位：米）
-        updateInterval: 5000, // 每5秒更新一次
+        focusRadius: 10000,
+        updateInterval: 5000,
         showPanel: false
     };
 
