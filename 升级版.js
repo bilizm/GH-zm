@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GeoFS卫星地图插件升级版
-// @namespace    https://github.com/bilizm/GeoFS-Real-time-display-of-flight-status
+// @namespace    https://github.com/bilizm/GH-zm
 // @version      1.3
 // @description  zm的超级牛逼无敌pro plus版
 // @author       bilibili開飛機のzm
